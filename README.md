@@ -1,6 +1,5 @@
 ### Hi there 👋
-## test1
-# test 2
+
 <!--
 **samyhaliem/samyhaliem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
